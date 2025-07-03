@@ -1,0 +1,47 @@
+
+Naming Server initialized at IP: 127.0.1.1, Client Port: 50069, Storage Port: 44687
+
+Storage server registered
+Storage server registered
+Naming Server initialized at IP: 127.0.1.1, Client Port: 58211, Storage Port: 53007
+
+Storage server registered
+Naming Server initialized at IP: 127.0.1.1, Client Port: 59109, Storage Port: 55009
+
+Storage server registered
+Storage server registered
+Naming Server initialized at IP: 127.0.1.1, Client Port: 43665, Storage Port: 34881
+
+Storage server registered
+Storage server registered
+Naming Server initialized at IP: 127.0.1.1, Client Port: 52125, Storage Port: 53053
+
+Naming Server initialized at IP: 127.0.1.1, Client Port: 39751, Storage Port: 48113
+
+Storage server registered
+Naming Server initialized at IP: 127.0.1.1, Client Port: 60127, Storage Port: 52363
+
+Storage server registered
+Naming Server initialized at IP: 127.0.1.1, Client Port: 43415, Storage Port: 47083
+
+Naming Server initialized at IP: 127.0.1.1, Client Port: 38905, Storage Port: 59753
+
+Naming Server initialized at IP: 127.0.1.1, Client Port: 38723, Storage Port: 46749
+
+Storage server registered
+Storage server registered
+Storage server registered
+/dir_vhfih/dir_lhkzx/dir_ctpcj/dir_hfccx/here.txt
+Naming Server initialized at IP: 127.0.1.1, Client Port: 59281, Storage Port: 35127
+
+Storage server registered
+Naming Server initialized at IP: 127.0.1.1, Client Port: 58353, Storage Port: 36377
+
+Storage server registered
+/dir_gywnw/dir_fzxpq/dir_rzuni/dir_eqfej/file_wux.txt
+Naming Server initialized at IP: 127.0.1.1, Client Port: 47357, Storage Port: 57629
+
+Storage server registered
+Naming Server initialized at IP: 127.0.1.1, Client Port: 57443, Storage Port: 56977
+
+Storage server registered
